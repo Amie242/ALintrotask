@@ -1,0 +1,26 @@
+
+.page {
+    font-size: 40px;
+    color: red;
+}
+
+/*styling for user_details */
+.user_details {
+    color: blue;
+    font-size: 20px;
+    font-family: calibri;
+}
+
+/* styling for user_details strong only */
+.user_details strong {
+    color: rgb(63, 40, 214);
+    font-size: 36px;
+}
+
+/* styling for factsaboutme */
+.factsaboutme {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color: rgb(25, 21, 99);
+}
+
